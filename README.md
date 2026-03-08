@@ -1,6 +1,8 @@
 # escount_r
 Endogenous switching and sample selection models for count data Use escount (micsr) With (In) R Software
 
+https://www.youtube.com/watch?v=LF5O04EmoH8
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
